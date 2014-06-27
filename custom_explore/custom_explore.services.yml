@@ -1,0 +1,4 @@
+services:
+  custom_explore.add_service:
+    class: Drupal\custom_explore\Service\AdditionService
+

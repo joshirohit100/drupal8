@@ -1,0 +1,8 @@
+custom_explore.hello_world:
+  path: '/hello-world'
+  defaults:
+    _title: 'My Title'
+    _content: '\Drupal\custom_explore\Controller\HelloController::hello'
+  requirements:
+    _permission: 'administer nodes'
+

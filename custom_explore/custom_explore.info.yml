@@ -1,0 +1,7 @@
+name: 'Explore Drupal-8'
+type: module
+description: 'Explore the Drupal-8 by custom things.'
+package: Custom
+version: VERSION
+core: 8.x
+
